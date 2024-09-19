@@ -1,0 +1,10 @@
+{
+    "id": "symbol-replacement-plugin",
+    "name": "Symbol Replacement Plugin",
+    "version": "1.0.0",
+    "minAppVersion": "0.12.0",
+    "description": "Replace text like '->' or '!=' with corresponding symbols with latex.",
+    "author": "ONE-18",
+    "authorUrl": "https://github.com/ONE-18",
+    "isDesktopOnly": false
+}

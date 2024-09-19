@@ -1,0 +1,9 @@
+{
+  "replacements": {
+    "->": "$\\rightarrow$",
+    "-->": "$\\Rightarrow$",
+    "!=": "$\\neq$",
+    "<--": "$\\Leftarrow$",
+    "<-": "$\\leftarrow$"
+  }
+}
